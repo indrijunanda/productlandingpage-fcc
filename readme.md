@@ -10,7 +10,7 @@ build with bootstrap
 
 -------------------
 
-**[DEMO](https://indrijunanda.github.io/tributepage-fcc/)** or check on **[Codepen](https://codepen.io/indrijunanda/pen/zgLzKV)**
+**[DEMO](https://indrijunanda.github.io/productlandingpage-fcc/)** or check on **[Codepen](https://codepen.io/indrijunanda/pen/zgLzKV)**
 
 -------------------
 
